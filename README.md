@@ -52,9 +52,9 @@ This project explores dimensionality reduction, clustering, and classification t
 ## ⚙️ Requirements
 
 Install dependencies via pip:
-
-```bash
 pip install numpy matplotlib seaborn scikit-learn tensorflow opencv-python
+
+---
 
 ## 📸 Dataset
 ORL (AT&T) Face Dataset
@@ -72,6 +72,9 @@ dataset_path/
 ├── s2/
 │   ├── ...
 └── ...
+
+---
+
 ## 📊 Visual Outputs
 PCA Reconstruction Comparisons
 
@@ -81,8 +84,12 @@ Confusion Matrices
 
 Autoencoder Loss Curves
 
+---
+
 ## 🧠 Author
 Mohamed Sobhy Saker
+
+---
 
 ## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
